@@ -1,15 +1,8 @@
 {
-  "name": "keyboard",
+  "name": "virtual-keyboard",
   "version": "1.0.0",
-  "description": "",
-  "main": "script.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "mocha": "^8.2.1"
-  }
+  "main": "index.js",
+  "repository": "https://github.com/hanool/virtual-keyboard.git",
+  "author": "hanool <29415530+hanool@users.noreply.github.com>",
+  "license": "MIT"
 }
